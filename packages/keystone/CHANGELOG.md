@@ -1,5 +1,13 @@
 # @keystonejs/keystone
 
+## 5.4.3
+
+### Patch Changes
+
+- [`eb36cf37`](https://github.com/keystonejs/keystone/commit/eb36cf3731984cc7cf60b60cb1c043962252610f) [#2255](https://github.com/keystonejs/keystone/pull/2255) - Removed unused dependencies.
+- Updated dependencies [[`6eb23086`](https://github.com/keystonejs/keystone/commit/6eb23086485d9bcbb93e35ec716d846790d611f2)]:
+  - @keystonejs/fields@6.2.0
+
 ## 5.4.2
 
 ### Patch Changes

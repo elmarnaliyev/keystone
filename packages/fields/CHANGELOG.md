@@ -1,5 +1,16 @@
 # @keystonejs/fields
 
+## 6.2.0
+
+### Minor Changes
+
+- [`6eb23086`](https://github.com/keystonejs/keystone/commit/6eb23086485d9bcbb93e35ec716d846790d611f2) [#2287](https://github.com/keystonejs/keystone/pull/2287) - Added adminDoc option to all fields
+
+### Patch Changes
+
+- Updated dependencies [[`ca2b043a`](https://github.com/keystonejs/keystone/commit/ca2b043a5043f6b4b110050127b2a9d759bb8569)]:
+  - @arch-ui/fields@2.1.0
+
 ## 6.1.0
 
 ### Minor Changes
